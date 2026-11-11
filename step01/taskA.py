@@ -4,7 +4,7 @@
 # Description: add descripion
 
 print("*" * 34)
-print ("MEDINA COUNTY CAREER CENTER\nIT Academy - Daily Schedule")
+print ("    MEDINA COUNTY CAREER CENTER\n    IT Academy - Daily Schedule")
 print("*" * 34)
 print("7:30  Homeroom\n7:45  Software Engineering Lab")
 print("10:15 Break\n10:30 Software Engineering Lab")
