@@ -1,7 +1,7 @@
 # Name: Max R
 # Date: 2026-11-11
-# Program: Step 01 Task A
-# Description: add descripion
+# Program: Step 01 Task B
+# Description: Task B
 
 
 
